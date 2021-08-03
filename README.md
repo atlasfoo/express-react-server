@@ -3,7 +3,7 @@
 Base server app for serving react builds and make "production" environment testing with `catch-all` path treatment
 
 ## How to use
-Put the full package contents `.` in a `server` folder inside your react app repository. 
+Unpack the full package contents `.` in a `server` folder inside your react app repository. 
 
 ```
 react-app
