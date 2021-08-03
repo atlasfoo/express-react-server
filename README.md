@@ -1,5 +1,11 @@
 # express-server
 
+![](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+![](https://img.shields.io/badge/made_with-javascript-yellow?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/node_version-14-green?style=for-the-badge&logo=node.js&logo_color=white)
+
+---
+
 Base server app for serving react builds and make "production" environment testing with `catch-all` path treatment
 
 ## How to use
